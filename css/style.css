@@ -379,6 +379,18 @@
 	input[type="checkbox"] + label:before {
 		border-radius: 4px;
 	}
+	.align-left {
+		text-align: left;
+	}
+
+	.align-center {
+		text-align: center;
+	}
+
+	.align-right {
+		text-align: right;
+	}
+
 
 	input[type="radio"] + label:before {
 		border-radius: 100%;
